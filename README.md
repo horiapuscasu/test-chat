@@ -1,1 +1,1 @@
-Based on https://github.com/sumanchalki/private-public-chat-websocket text chat , file transfer and emoji
+Based on https://github.com/sumanchalki/private-public-chat-websocket text chat , file transfer and emoji in pass1 digest passwords https://websistent.com/tools/htdigest-generator-tool/ realm /
